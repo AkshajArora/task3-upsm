@@ -1,0 +1,31 @@
+.container{
+    display: inline-block;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.container img{
+    position: relative;
+    margin-left: 8.5%;
+    margin-bottom: 0px;
+}
+
+.click{
+    
+    margin-top: 0px;
+    display: block;
+    width: 100%;
+}
+
+.click input{
+    margin-left: 65px;
+    color: white;
+    font-size: 40px;
+    background-image: linear-gradient(to right, #D74B76, #673F69);
+    padding-top: center;
+    padding-bottom: center;
+    padding: 20px 235px;
+    text-align: center;
+}
